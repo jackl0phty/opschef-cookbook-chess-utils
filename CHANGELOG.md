@@ -6,6 +6,10 @@ This file is used to list changes made in each version of chess_utils.
 
 * Initial release of chess_utils
 
+## 0.1.1:
+
+* Add recipes crafty, fairymax, fish, glaurung, hoichess, & toga2.
+
 - - -
 Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.
 
