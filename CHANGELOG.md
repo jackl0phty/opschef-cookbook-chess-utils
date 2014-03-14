@@ -2,13 +2,17 @@
 
 This file is used to list changes made in each version of chess_utils.
 
-## 0.1.0:
+## 0.1.2:
 
-* Initial release of chess_utils
+* Add eboard, pychess, utils, & xboard recipes.
 
 ## 0.1.1:
 
 * Add recipes crafty, fairymax, fish, glaurung, hoichess, & toga2.
+
+## 0.1.0:
+
+* Initial release of chess_utils
 
 - - -
 Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.
