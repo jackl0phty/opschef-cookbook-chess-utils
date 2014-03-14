@@ -9,7 +9,7 @@
 case node['platform_family']
 
   when "debian"
-    %w{ crafty cfty-bitmaps crafty-books-medium crafty-books-medtosmall crafty-books-small }.each do |pkg|
+    %w{ crafty crafty-bitmaps crafty-books-medium crafty-books-medtosmall crafty-books-small }.each do |pkg|
     package pkg
   end
 
