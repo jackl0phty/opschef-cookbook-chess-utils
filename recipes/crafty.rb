@@ -1,6 +1,6 @@
 #
 # Cookbook Name:: chess_utils
-# Recipe:: toga2
+# Recipe:: crafty
 #
 # Copyright 2014, Gerald L. Hevener Jr., M.S.
 #
